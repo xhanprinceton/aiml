@@ -2,15 +2,13 @@
 permalink: /
 title: "Xu Han – AI & Machine Learning Researcher"
 author_profile: true
+collection_tabs: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 <img src="/aiml/assets/12057212-2.jpg" width="220">
 
-author:
-  name: "Xu Han"
-  avatar: "/aiml/assets/12057212-2.jpg"
 
 Hi, I'm **Xu Han**, a researcher and data scientist focused on statistical machine learning and AI methods for large scale structured and unstructured data. 
 
