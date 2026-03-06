@@ -1,0 +1,14 @@
+---
+title: "Estimation of the false discovery proportion with unknown dependence"
+collection: publications
+category: manuscripts
+permalink: /publication/jrssb_2017
+excerpt: ''
+date: 2017-09-01
+venue: 'Journal of Royal Statistical Society - Series B'
+slidesurl: ''
+paperurl: 'https://academic.oup.com/jrsssb/article/79/4/1143/7040640'
+citation: 'Jianqing Fan, Xu Han, Estimation of the False Discovery Proportion with Unknown Dependence, Journal of the Royal Statistical Society Series B: Statistical Methodology, Volume 79, Issue 4, September 2017, Pages 1143–1164, https://doi.org/10.1111/rssb.12204'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
